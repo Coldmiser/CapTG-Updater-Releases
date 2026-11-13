@@ -1,1 +1,1 @@
-# CapTG-Updater-Releases
+Public Repo for updates to the PatchUpdater
