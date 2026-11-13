@@ -15,5 +15,6 @@ To block an update on only some machines, set `WindowsUpdateExclusions` (REG_SZ,
 ## Blocked
 
 (none)
-KB1111111 - Test Entry
-KB1111112 - Second Test Entry
+- KB1111111 test entry
+- KB1111113 third test entry
+- KB1111112 second test entry
